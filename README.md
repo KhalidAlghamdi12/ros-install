@@ -60,4 +60,4 @@ then again put (y) to accept and press Enter to complete the installation...
 
 6-Install some other tools that you will work with in ROS. After you type the command below, type Y and Enter to complete the download process: (sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential) then type Y .
 
-7-Then start rosdep. Before using ROS, you must install this (sudo apt install python-rosdep > (sudo rosdep init) >). (rosdep update) , Check the ROS version that you have set up. If your ROS version appears in the report, then your installation of ROS was successful. Roversion -d
+7-Then start rosdep. Before using ROS, you must install this (sudo apt install python-rosdep > (sudo rosdep init) >). (rosdep update) , Check the ROS version that you have set up. If your ROS version appears in the report, then your installation of ROS was successful.( Roversion -d) 
